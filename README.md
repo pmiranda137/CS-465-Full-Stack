@@ -26,8 +26,3 @@ Throughout this full-stack application development process, each piece was devel
 
 Methods, endpoints, and security are essential in a full-stack application. Methods are used for request and retrieval of functions and data. These can be tested using API endpoints to retrieve the functions and test using sample data. Security is also crucial for a full stack application, because the application contains sensitive data that needs to be protected. 
 
-# Reflection
-
-# How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
-
-This course has helped me to achieve my professional goals because it has taught me the basics of developing a full stack application. I did not understand the full scope of developing a full-stack application before taking this course, so I am walking away with very valuable information as I go forward towards my career in computer science. I now am also fully versed in the MEAN stack development structure, which will help me become a more marketable candidate in my career field. 
